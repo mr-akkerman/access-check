@@ -13,6 +13,12 @@
    ```bash
    docker run -d --name api-checker -p 8006:8000 mrakkerman/access-check:latest
    ```
+
+### 📚 Endpoints
+
+#### `GET http://your-ip:8006/docs` - Swagger UI (API documentation)
+
+#### `GET http://your-ip:8006/v1/standard-check/access-check` - Check if a host is accessible
    
 ## 🤌 Profit
 
