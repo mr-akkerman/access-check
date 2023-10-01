@@ -2,7 +2,7 @@
 
 🤝 A simple and fast way to deploy an API for checking hosting accessibility from a Docker container.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mrakkerman/access-check)
+![GitHub last commit](https://img.shields.io/github/last-commit/mr-akkerman/access-check)
 
 ## How to Use
 
