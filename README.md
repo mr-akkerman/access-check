@@ -11,7 +11,8 @@
 2. Run the container using the following command, specifying your desired port (e.g., 8006):
 
    ```bash
-   docker run -d --name api-checker -p 8006:8000 mrakkerman/access-check:dev
+   docker run -d --name api-checker -p 8006:8000 mrakkerman/access-check:latest
+   ```
    
 ## 🤌 Profit
 
