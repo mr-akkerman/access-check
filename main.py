@@ -2,7 +2,7 @@ import logging
 from fastapi import FastAPI
 import uvicorn
 
-from api.v1.controllers.standard_check import standard_check_controller
+from api.v1.controllers.access_checking import simple_access_check_routes
 
 logging.basicConfig(
     format="u'%(filename)+13s [ LINE:%(lineno)-4s] %(levelname)-8s [%(asctime)s] %(message)s",
