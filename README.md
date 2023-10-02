@@ -18,7 +18,7 @@
 
 #### `GET http://your-ip:8006/docs` - Swagger UI (API documentation)
 
-#### `GET http://your-ip:8006/v1/standard-check/access-check` - Check if a host is accessible
+#### `GET/POST http://your-ip:8006/v1/access-checking/simple-check` - Check if a host is accessible
    
 ### 🤌 Profit
 
